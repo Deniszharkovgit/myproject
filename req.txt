@@ -1,0 +1,12 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+oauth2client
+pycbrf
+Django==3.0.4
+django-cors-headers
+djangorestframework
+virtualenv
+psycopg2-binary
+pandas
+gspread
