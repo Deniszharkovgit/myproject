@@ -10,3 +10,4 @@ virtualenv
 psycopg2-binary
 pandas
 gspread
+notifiers
